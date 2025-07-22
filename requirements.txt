@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-scikit-learn
+scikit-learn==1.4.0
 requests
 pickle5
